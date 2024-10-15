@@ -34,7 +34,7 @@ This repository is dedicated to mastering **Assembly Language (ASM)**. Whether y
 Engage with other learners, share your progress, and seek help! Join our [Discord Server](#) or follow our discussions on [GitHub Discussions](#).
 
 ## 📫 Connect with Me
-Feel free to reach out! You can connect with me on [LinkedIn](https://www.linkedin.com/in/v%C5%A9-h%E1%BB%AFu-b%E1%BA%AFc-8a5b35215/) or drop me an email at [your-email@example.com](mailto:your-email@example.com).
+Feel free to reach out! You can connect with me on [LinkedIn](https://www.linkedin.com/in/v%C5%A9-h%E1%BB%AFu-b%E1%BA%AFc-8a5b35215/) or drop me an email at [bacvu225@gmail.com](mailto:bacvu225@gmail.com).
 
 ---
 
